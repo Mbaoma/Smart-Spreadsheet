@@ -13,5 +13,9 @@ python main.py
 python workings.py
 ```
 
+## Note
+*   Always save your excel files after typing in data on the sheet.
+
+
 
 
